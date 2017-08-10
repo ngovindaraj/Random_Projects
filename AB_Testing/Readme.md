@@ -1,7 +1,0 @@
-Design an A/B Test
-----------------------
-- Made design decisions for an A/B test run by Udacity, including which metrics to measure and how long the test should be run
-- Analyzed A/B test results and made recommendations regarding launching the change
-
-[Link to project](./report.pdf)
-
