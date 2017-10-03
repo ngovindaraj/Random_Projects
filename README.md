@@ -1,4 +1,4 @@
-Placeholder for all my Udacity projects done towards the Data Analyst Nanodegree
+Placeholder for all projects that were done from Udacity's Data Analyst portal
 
 | Project      | About                              |
 |:-------------|:-----------------------------------|
