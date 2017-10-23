@@ -67,7 +67,7 @@ class MySql(object):
         return ret
 
 
-sql = MySql(user='ngovindaraj', passwd='the rock', db='sf')
+sql = MySql(user='ngovindaraj', passwd='abcd', db='sf')
 sql.connect()
 
 print "Creating nodes table:"
