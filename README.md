@@ -1,4 +1,4 @@
-Placeholder for all projects that were done from Udacity's Data Analyst portal
+Placeholder for all projects
 
 | Project      | About                              |
 |:-------------|:-----------------------------------|
